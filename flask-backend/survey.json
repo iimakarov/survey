@@ -1,0 +1,42 @@
+{
+  "surveys": [
+    {
+      "id": "1",
+      "name": "Тестовый опрос 1",
+      "description": "Описание 1",
+      "items": [
+        {
+          "id": "1.1",
+          "type": "single-choice",
+          "name": "Вопросец 1",
+          "description": "Описание 1 ы",
+          "addTextBox": false,
+          "choiceOpts": "Белый; Синий; Красный"
+        },
+        {
+          "id": "1.2",
+          "type": "text",
+          "name": "Вопросец 2",
+          "description": "Описание 2 ы"
+        },
+        {
+          "id": "1.3",
+          "type": "single-choice",
+          "name": "Вопросец 3",
+          "description": "Описание 3 ы",
+          "addTextBox": true,
+          "choiceOpts": "Да; Нет",
+          "addCheckBox": true
+        },
+        {
+          "id": "1.4",
+          "type": "rating",
+          "name": "Вопросец 4",
+          "description": "Описание 4 ы",
+          "addTextBox": true,
+          "addCheckBox": true
+        }
+      ]
+    }
+  ]
+}

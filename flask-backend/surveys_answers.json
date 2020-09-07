@@ -1,0 +1,211 @@
+{
+    "surveys": [
+        {
+            "surveyId": "1",
+            "answers": [
+                {
+                    "user": "Ivan",
+                    "items": [
+                        {
+                            "id": "1.1",
+                            "answer": "\u0421\u0438\u043d\u0438\u0439",
+                            "comment": "",
+                            "type": "single-choice",
+                            "isFinished": true,
+                            "checkBoxChecked": false
+                        },
+                        {
+                            "id": "1.2",
+                            "answer": null,
+                            "comment": "ffff",
+                            "type": "text",
+                            "isFinished": true,
+                            "checkBoxChecked": false
+                        },
+                        {
+                            "id": "1.3",
+                            "answer": null,
+                            "comment": "Ghjmf,f",
+                            "type": "single-choice",
+                            "isFinished": false,
+                            "checkBoxChecked": true
+                        },
+                        {
+                            "id": "1.4",
+                            "answer": "4",
+                            "comment": "Jlll;f",
+                            "type": "rating",
+                            "isFinished": true,
+                            "checkBoxChecked": false
+                        }
+                    ]
+                },
+                {
+                    "user": "Oleg",
+                    "items": [
+                        {
+                            "id": "1.2",
+                            "answer": "\u041f\u0435\u0440\u0432\u044b\u0439",
+                            "comment": ""
+                        },
+                        {
+                            "id": "1.1",
+                            "answer": "\u0411\u0435\u043b\u044b\u0439",
+                            "comment": ""
+                        },
+                        {
+                            "id": "1.3",
+                            "answer": "\u041d\u0435\u0442",
+                            "comment": ""
+                        }
+                    ]
+                },
+                {
+                    "user": "Ann",
+                    "items": [
+                        {
+                            "id": "1.1",
+                            "answer": "red",
+                            "comment": ""
+                        },
+                        {
+                            "id": "1.2",
+                            "answer": "white",
+                            "comment": ""
+                        },
+                        {
+                            "id": "1.3",
+                            "answer": "blue",
+                            "comment": ""
+                        }
+                    ]
+                },
+                {
+                    "user": "Jonny",
+                    "items": [
+                        {
+                            "id": "1.1",
+                            "answer": "blue",
+                            "comment": ""
+                        },
+                        {
+                            "id": "1.2",
+                            "answer": "red",
+                            "comment": ""
+                        },
+                        {
+                            "id": "1.3",
+                            "answer": "white",
+                            "comment": ""
+                        }
+                    ]
+                },
+                {
+                    "user": "Jonny2",
+                    "items": [
+                        {
+                            "id": "1.1",
+                            "answer": "white",
+                            "comment": ""
+                        },
+                        {
+                            "id": "1.2",
+                            "answer": "red",
+                            "comment": ""
+                        },
+                        {
+                            "id": "1.3",
+                            "answer": "white",
+                            "comment": ""
+                        }
+                    ]
+                },
+                {
+                    "user": "aaaaaaaa",
+                    "items": [
+                        {
+                            "id": "1.1",
+                            "answer": "red",
+                            "comment": ""
+                        },
+                        {
+                            "id": "1.2",
+                            "answer": "blue",
+                            "comment": ""
+                        },
+                        {
+                            "id": "1.3",
+                            "answer": "white",
+                            "comment": ""
+                        }
+                    ]
+                },
+                {
+                    "user": "bbbbbb",
+                    "items": [
+                        {
+                            "id": "1.1",
+                            "answer": "red",
+                            "comment": ""
+                        },
+                        {
+                            "id": "1.2",
+                            "answer": "red",
+                            "comment": ""
+                        },
+                        {
+                            "id": "1.3",
+                            "answer": "red",
+                            "comment": ""
+                        }
+                    ]
+                },
+                {
+                    "user": "Joe",
+                    "items": [
+                        {
+                            "id": "1.1",
+                            "answer": "blue",
+                            "comment": ""
+                        },
+                        {
+                            "id": "1.2",
+                            "answer": "red",
+                            "comment": ""
+                        },
+                        {
+                            "id": "1.3",
+                            "answer": "white",
+                            "comment": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "surveyId": "2",
+            "answers": [
+                {
+                    "user": "Oleg",
+                    "items": [
+                        {
+                            "id": "1.1",
+                            "answer": "blue",
+                            "comment": ""
+                        },
+                        {
+                            "id": "1.2",
+                            "answer": "blue",
+                            "comment": ""
+                        },
+                        {
+                            "id": "1.3",
+                            "answer": "white",
+                            "comment": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
